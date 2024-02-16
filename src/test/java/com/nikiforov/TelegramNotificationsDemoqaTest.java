@@ -19,7 +19,7 @@ import static com.codeborne.selenide.Selenide.*;
 import static io.qameta.allure.Allure.step;
 
 @DisplayName("Первая работа с Jenkins")
-@Tag("first_properties_task")
+@Tag("first_telegram_task")
 public class TelegramNotificationsDemoqaTest {
     @BeforeAll
     static void beforeAll() {
